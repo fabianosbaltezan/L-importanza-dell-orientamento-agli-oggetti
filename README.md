@@ -1,0 +1,2 @@
+# L-importanza-dell-orientamento-agli-oggetti
+La programmazione orientata agli oggetti (OOP) è uno stile di programmazione che si concentra sugli oggetti piuttosto che su lunghi elenchi di funzioni. Gli oggetti di solito contengono tutte le funzioni al loro interno. Molti oggetti possono essere riutilizzati, il che significa che i programmatori non devono ricreare il codice per problemi che sono già stati risolti. OOP è altamente strutturato ed evita ripetizioni ed errori.
